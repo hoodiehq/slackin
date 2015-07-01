@@ -1,3 +1,7 @@
+.active {
+	color: #520644 !important;
+}
+
 button {
-  background: #520644 !important;
+  background-color: #520644 !important;
 }
